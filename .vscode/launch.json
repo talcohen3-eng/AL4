@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Main",
+            "request": "launch",
+            "mainClass": "il.ac.tau.cs.software1.pacman.PacmanGameApplication",
+            "vmArgs": "-classpath C:/Users/toole/lwjgl-release/*"
+        }
+    ]
+}

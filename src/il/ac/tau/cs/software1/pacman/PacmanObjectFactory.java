@@ -14,4 +14,8 @@ public class PacmanObjectFactory {
 		return new PacmanBonusDot(location);
 	}
 
+	public static PacmanGameObject spawnBonusCherry(PacmanGridComponent location) {
+		return new PackmanBonusCherry(location);
+	}
+
 }
